@@ -1,10 +1,13 @@
 # Power-BI--BlinkIT-
 📊 Blinkit Retail Sales Dashboard (Power BI Project)
+
 📌 Project Overview
+
 This Power BI project focuses on analyzing retail sales performance data for Blinkit, India’s last-minute grocery delivery platform. The dashboard offers a holistic view of the company’s sales insights across product categories, outlet types, sizes, and regional distributions — with all filters set to “All” for a full dataset perspective.
 The primary goal is to enable data-driven decisions regarding product strategy, outlet performance, and customer targeting.
 
 💡 Purpose
+
 To design an interactive and user-friendly dashboard that summarizes key performance indicators and trends for a retail grocery business — facilitating strategic decisions and identifying top-performing segments without requiring advanced technical knowledge.
 
 🛠️ Tech Stack
