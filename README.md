@@ -31,4 +31,5 @@ To design an interactive and user-friendly dashboard that summarizes key perform
 - 🧭 Navigation: Tab-based layout for an intuitive user experience
 
 
-![Dashboard Preview](https://github.com/Suchitra-15/Power-BI--BlinkIT-/blob/main/Blinkit.png))
+
+![Dashboard Preview](https://github.com/Suchitra-15/Power-BI--BlinkIT-/blob/main/Blinkit.png)
